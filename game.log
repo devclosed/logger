@@ -1,0 +1,7 @@
+int x = 4.203
+float pi = "39"
+str name = 3
+
+say x
+say pi
+say name
